@@ -7,5 +7,7 @@ Unleash chaos in "Dodge Lab"! As hordes of relentless enemies descend, your miss
 Gameplay Demo:
 
 
-https://github.com/HarryVu176/Dodge-Lab/assets/56937827/b304d400-a26e-430c-96a2-099bcf5342ec
+
+
+https://github.com/HarryVu176/Dodge-Lab/assets/56937827/74a7006b-fc05-4dd4-8671-c6f4c9e35639
 
